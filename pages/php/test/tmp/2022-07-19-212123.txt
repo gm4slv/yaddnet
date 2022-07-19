@@ -1,0 +1,15 @@
+    Input :	GM4SLV 4207.5;002711000;(safety);from;273395750; test REQ;22-07-19 21:17:33
+     Time :	2022-07-19 21:17:30
+  Monitor :	GM4SLV
+Frequency :	4207.5 kHz
+   Format :	SEL
+       To :	COAST	002711000 : Istanbul Radio : Turkey
+ Category :	SAF
+     From :	SHIP	273395750 : DONMASTER SPIRIT, UNK, N/A : Russia
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+

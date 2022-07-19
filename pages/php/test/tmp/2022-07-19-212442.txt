@@ -1,0 +1,30 @@
+    Input :	G3UFI 156525.0;235025323;(safety);from;002320011; test ACK;22-07-19 21:12:24
+     Time :	2022-07-19 21:12:52
+  Monitor :	G3UFI
+Frequency :	156525.0 kHz
+   Format :	SEL
+       To :	SHIP	235025323 : SVITZER FERRIBY, MHMR3, Tug : United Kingdom
+ Category :	SAF
+     From :	COAST	002320011 : Solent Coastguard : United Kingdom
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	G3UFI 156525.0;257740000;(safety);from;257740000; test ACK;22-07-19 20:32:32
+     Time :	2022-07-19 20:33:00
+  Monitor :	G3UFI
+Frequency :	156525.0 kHz
+   Format :	SEL
+       To :	SHIP	257740000 : AASLI, LADQ6, Cargo : Norway
+ Category :	SAF
+     From :	SHIP	257740000 : AASLI, LADQ6, Cargo : Norway
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+

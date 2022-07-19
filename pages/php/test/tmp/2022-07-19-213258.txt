@@ -1,0 +1,1455 @@
+    Input :	[IO75-02];2187.5;SEL;219234000;SAF;219234000;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:31:44
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	219234000 : HOLLANDIA SEAWAYS, UNK, N/A : Denmark
+ Category :	SAF
+     From :	SHIP	219234000 : HOLLANDIA SEAWAYS, UNK, N/A : Denmark
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;219234000;SAF;219234000;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:31:43
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	219234000 : HOLLANDIA SEAWAYS, UNK, N/A : Denmark
+ Category :	SAF
+     From :	SHIP	219234000 : HOLLANDIA SEAWAYS, UNK, N/A : Denmark
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;538009467;SAF;002711000;TEST;NOINF;--;--;ACK;ECC 114 OK
+     Time :	2022-07-19 21:28:04
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	538009467 : AZOV COAST, V7A4781, Cargo : Marshall Islands
+ Category :	SAF
+     From :	COAST	002711000 : Istanbul Radio : Turkey
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;538009467;SAF;002711000;TEST;NOINF;--;--;ACK;ECC 114 OK
+     Time :	2022-07-19 21:28:02
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	538009467 : AZOV COAST, V7A4781, Cargo : Marshall Islands
+ Category :	SAF
+     From :	COAST	002711000 : Istanbul Radio : Turkey
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002711000;SAF;538009467;TEST;NOINF;--;--;REQ;ECC 125 OK
+     Time :	2022-07-19 21:26:31
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002711000 : Istanbul Radio : Turkey
+ Category :	SAF
+     From :	SHIP	538009467 : AZOV COAST, V7A4781, Cargo : Marshall Islands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;311000464;SAF;311000464;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:25:42
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	311000464 : SEABOURN ENCORE, C6CG4, N/A : Bahamas
+ Category :	SAF
+     From :	SHIP	311000464 : SEABOURN ENCORE, C6CG4, N/A : Bahamas
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;304374000;SAF;236153000;TEST;NOINF;--;--;REQ;ECC 9 OK
+     Time :	2022-07-19 21:25:41
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	304374000 : FREDERIK, V2HB4, Cargo : Antigua/Barbuda
+ Category :	SAF
+     From :	SHIP	236153000 : TRANSDISTINTO, ZDEQ2, Cargo : Gibraltar
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;232013527;SAF;002470002;J3E TP;NOINF;02182.0/02182.0KHz;--;ACK;ECC 75 OK
+     Time :	2022-07-19 21:25:03
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	232013527 : HELLESPONT PROGRESS, UNK, N/A : United Kingdom
+ Category :	SAF
+     From :	COAST	002470002 : Palermo Radio : Italy
+   Tele 1 :	J3E TP
+   Tele 2 :	NOINF
+     Freq :	02182.0/02182.0KHz
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002320011;SAF;236153000;TEST;NOINF;--;--;REQ;ECC 126 OK
+     Time :	2022-07-19 21:24:20
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002320011 : Solent Coastguard : United Kingdom
+ Category :	SAF
+     From :	SHIP	236153000 : TRANSDISTINTO, ZDEQ2, Cargo : Gibraltar
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;002320011;SAF;236153000;TEST;NOINF;--;--;REQ;ECC 126 OK
+     Time :	2022-07-19 21:24:19
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002320011 : Solent Coastguard : United Kingdom
+ Category :	SAF
+     From :	SHIP	236153000 : TRANSDISTINTO, ZDEQ2, Cargo : Gibraltar
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002320011;SAF;236153000;TEST;NOINF;--;--;REQ;ECC 126 OK
+     Time :	2022-07-19 21:24:19
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002320011 : Solent Coastguard : United Kingdom
+ Category :	SAF
+     From :	SHIP	236153000 : TRANSDISTINTO, ZDEQ2, Cargo : Gibraltar
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;244044000;SAF;257550000;TEST;NOINF;--;--;ACK;ECC 26 OK
+     Time :	2022-07-19 21:24:08
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	244044000 : PRINSENGRACHT, UNK, N/A : Netherlands
+ Category :	SAF
+     From :	SHIP	257550000 : SALTSTRAUM, UNK, N/A : Norway
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[es1005swl];2187.5;SEL;244044000;SAF;257550000;TEST;NOINF;--;--;ACK;ECC 26 OK
+     Time :	2022-07-19 21:24:08
+  Monitor :	es1005swl
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	244044000 : PRINSENGRACHT, UNK, N/A : Netherlands
+ Category :	SAF
+     From :	SHIP	257550000 : SALTSTRAUM, UNK, N/A : Norway
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[OH6JKN_RSP1];2187.5;SEL;244044000;SAF;257550000;TEST;NOINF;--;--;ACK;ECC 26 OK
+     Time :	2022-07-19 21:24:07
+  Monitor :	OH6JKN_RSP1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	244044000 : PRINSENGRACHT, UNK, N/A : Netherlands
+ Category :	SAF
+     From :	SHIP	257550000 : SALTSTRAUM, UNK, N/A : Norway
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;244044000;SAF;257550000;TEST;NOINF;--;--;ACK;ECC 26 OK
+     Time :	2022-07-19 21:24:07
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	244044000 : PRINSENGRACHT, UNK, N/A : Netherlands
+ Category :	SAF
+     From :	SHIP	257550000 : SALTSTRAUM, UNK, N/A : Norway
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[OH6JKN_RSP1];2187.5;SEL;257550000;SAF;244044000;TEST;NOINF;--;--;REQ;ECC 21 OK
+     Time :	2022-07-19 21:23:59
+  Monitor :	OH6JKN_RSP1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	257550000 : SALTSTRAUM, UNK, N/A : Norway
+ Category :	SAF
+     From :	SHIP	244044000 : PRINSENGRACHT, UNK, N/A : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002150100;SAF;232013527;TEST;NOINF;--;--;REQ;ECC 56 OK
+     Time :	2022-07-19 21:23:09
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002150100 : Malta Radio : Malta
+ Category :	SAF
+     From :	SHIP	232013527 : HELLESPONT PROGRESS, UNK, N/A : United Kingdom
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;002150100;SAF;232013527;TEST;NOINF;--;--;REQ;ECC 56 OK
+     Time :	2022-07-19 21:23:08
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002150100 : Malta Radio : Malta
+ Category :	SAF
+     From :	SHIP	232013527 : HELLESPONT PROGRESS, UNK, N/A : United Kingdom
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002150100;SAF;232013527;TEST;NOINF;--;--;REQ;ECC 56 OK
+     Time :	2022-07-19 21:23:08
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002150100 : Malta Radio : Malta
+ Category :	SAF
+     From :	SHIP	232013527 : HELLESPONT PROGRESS, UNK, N/A : United Kingdom
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;246891000;SAF;002320007;TEST;NOINF;--;--;ACK;ECC 36 OK
+     Time :	2022-07-19 21:21:53
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+ Category :	SAF
+     From :	COAST	002320007 : Humber Coastguard : United Kingdom
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002470002;SAF;232013527;J3E TP;NOINF;--;36.19°N 014.36°E;REQ;ECC 61 OK
+     Time :	2022-07-19 21:21:24
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470002 : Palermo Radio : Italy
+ Category :	SAF
+     From :	SHIP	232013527 : HELLESPONT PROGRESS, UNK, N/A : United Kingdom
+   Tele 1 :	J3E TP
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	36.19°N 014.36°E
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;002275200;SAF;236153000;TEST;NOINF;--;--;REQ;ECC 63 OK
+     Time :	2022-07-19 21:21:21
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002275200 : CROSS Jobourg : France
+ Category :	SAF
+     From :	SHIP	236153000 : TRANSDISTINTO, ZDEQ2, Cargo : Gibraltar
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002275200;SAF;236153000;TEST;NOINF;--;--;REQ;ECC 63 OK
+     Time :	2022-07-19 21:21:21
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002275200 : CROSS Jobourg : France
+ Category :	SAF
+     From :	SHIP	236153000 : TRANSDISTINTO, ZDEQ2, Cargo : Gibraltar
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;236729000;SAF;002191000;TEST;NOINF;--;--;ACK;ECC 97 OK
+     Time :	2022-07-19 21:20:55
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	236729000 : ALIDA S, UNK, N/A : Gibraltar
+ Category :	SAF
+     From :	COAST	002191000 : Lyngby Radio : Denmark
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[es1005swl];2187.5;SEL;236729000;SAF;002191000;TEST;NOINF;--;--;ACK;ECC 97 OK
+     Time :	2022-07-19 21:20:54
+  Monitor :	es1005swl
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	236729000 : ALIDA S, UNK, N/A : Gibraltar
+ Category :	SAF
+     From :	COAST	002191000 : Lyngby Radio : Denmark
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002191000;SAF;236729000;TEST;NOINF;--;--;REQ;ECC 110 OK
+     Time :	2022-07-19 21:20:34
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002191000 : Lyngby Radio : Denmark
+ Category :	SAF
+     From :	SHIP	236729000 : ALIDA S, UNK, N/A : Gibraltar
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;219038000;SAF;219038000;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:20:15
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	219038000 : MANILA MAERSK, UNK, N/A : Denmark
+ Category :	SAF
+     From :	SHIP	219038000 : MANILA MAERSK, UNK, N/A : Denmark
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;246629000;SAF;244044000;TEST;NOINF;--;--;REQ;ECC 50 OK
+     Time :	2022-07-19 21:19:15
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	246629000 : AMELAND, PBVF, Cargo : Netherlands
+ Category :	SAF
+     From :	SHIP	244044000 : PRINSENGRACHT, UNK, N/A : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002470002;SAF;002470124;TEST;NOINF;--;--;REQ;ECC 89 OK
+     Time :	2022-07-19 21:17:48
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470002 : Palermo Radio : Italy
+ Category :	SAF
+     From :	COAST	002470124 : Crotone Radio : Italy
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002470002;SAF;002470124;TEST;NOINF;--;--;REQ;ECC 89 OK
+     Time :	2022-07-19 21:17:47
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470002 : Palermo Radio : Italy
+ Category :	SAF
+     From :	COAST	002470124 : Crotone Radio : Italy
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;258789000;SAF;258789000;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:16:55
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	258789000 : VIKING NEPTUN, LAYH7, Other : Norway
+ Category :	SAF
+     From :	SHIP	258789000 : VIKING NEPTUN, LAYH7, Other : Norway
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[OH6JKN_RSP1];2187.5;SEL;002470001;SAF;002470125;J3E TP;NOINF;02182.0/02182.0KHz;--;REQ;ECC 70 OK
+     Time :	2022-07-19 21:15:44
+  Monitor :	OH6JKN_RSP1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470001 : Roma Radio : Italy
+ Category :	SAF
+     From :	COAST	002470125 : Genova Radio : Italy
+   Tele 1 :	J3E TP
+   Tele 2 :	NOINF
+     Freq :	02182.0/02182.0KHz
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002470001;SAF;002470125;J3E TP;NOINF;02182.0/02182.0KHz;--;REQ;ECC 70 OK
+     Time :	2022-07-19 21:15:44
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470001 : Roma Radio : Italy
+ Category :	SAF
+     From :	COAST	002470125 : Genova Radio : Italy
+   Tele 1 :	J3E TP
+   Tele 2 :	NOINF
+     Freq :	02182.0/02182.0KHz
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;002470001;SAF;002470125;J3E TP;NOINF;02182.0/02182.0KHz;--;REQ;ECC 70 OK
+     Time :	2022-07-19 21:15:43
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470001 : Roma Radio : Italy
+ Category :	SAF
+     From :	COAST	002470125 : Genova Radio : Italy
+   Tele 1 :	J3E TP
+   Tele 2 :	NOINF
+     Freq :	02182.0/02182.0KHz
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002470001;SAF;002470125;J3E TP;NOINF;02182.0/02182.0KHz;--;REQ;ECC 70 OK
+     Time :	2022-07-19 21:15:43
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470001 : Roma Radio : Italy
+ Category :	SAF
+     From :	COAST	002470125 : Genova Radio : Italy
+   Tele 1 :	J3E TP
+   Tele 2 :	NOINF
+     Freq :	02182.0/02182.0KHz
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[OH6JKN_RSP1];2187.5;SEL;244321000;SAF;244044000;TEST;NOINF;--;--;REQ;ECC 83 OK
+     Time :	2022-07-19 21:15:06
+  Monitor :	OH6JKN_RSP1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	244321000 : TUNA, PHBX, Cargo : Netherlands
+ Category :	SAF
+     From :	SHIP	244044000 : PRINSENGRACHT, UNK, N/A : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;235667000;SAF;235667000;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:14:31
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	235667000 : STENA ADVENTURER, VQLZ4, Passenger : United Kingdom
+ Category :	SAF
+     From :	SHIP	235667000 : STENA ADVENTURER, VQLZ4, Passenger : United Kingdom
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;235667000;SAF;235667000;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:14:30
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	235667000 : STENA ADVENTURER, VQLZ4, Passenger : United Kingdom
+ Category :	SAF
+     From :	SHIP	235667000 : STENA ADVENTURER, VQLZ4, Passenger : United Kingdom
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002311000;SAF;257962000;TEST;NOINF;--;--;REQ;ECC 29 OK
+     Time :	2022-07-19 21:14:21
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002311000 : Torshavn Radio : Faroe Islands
+ Category :	SAF
+     From :	SHIP	257962000 : SAMSKIP ARCTIC, LAHP6, Cargo : Norway
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002470002;SAF;002470121;TEST;NOINF;--;--;REQ;ECC 123 OK
+     Time :	2022-07-19 21:13:59
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470002 : Palermo Radio : Italy
+ Category :	SAF
+     From :	COAST	002470121 : Bari Radio : Italy
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;228388900;SAF;228388900;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:13:34
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	228388900 : WIND OF HOPE, UNK, N/A : France
+ Category :	SAF
+     From :	SHIP	228388900 : WIND OF HOPE, UNK, N/A : France
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;228388900;SAF;228388900;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:13:33
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	228388900 : WIND OF HOPE, UNK, N/A : France
+ Category :	SAF
+     From :	SHIP	228388900 : WIND OF HOPE, UNK, N/A : France
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;228388900;SAF;228388900;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:13:33
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	228388900 : WIND OF HOPE, UNK, N/A : France
+ Category :	SAF
+     From :	SHIP	228388900 : WIND OF HOPE, UNK, N/A : France
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[es1005swl];2187.5;SEL;228388900;SAF;228388900;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:13:33
+  Monitor :	es1005swl
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	228388900 : WIND OF HOPE, UNK, N/A : France
+ Category :	SAF
+     From :	SHIP	228388900 : WIND OF HOPE, UNK, N/A : France
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;311000247;SAF;311000247;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:11:42
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	311000247 : OAK SPIRIT, C6BF4, Tanker : Bahamas
+ Category :	SAF
+     From :	SHIP	311000247 : OAK SPIRIT, C6BF4, Tanker : Bahamas
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;311000247;SAF;311000247;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:11:42
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	311000247 : OAK SPIRIT, C6BF4, Tanker : Bahamas
+ Category :	SAF
+     From :	SHIP	311000247 : OAK SPIRIT, C6BF4, Tanker : Bahamas
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;311000247;SAF;311000247;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:11:41
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	311000247 : OAK SPIRIT, C6BF4, Tanker : Bahamas
+ Category :	SAF
+     From :	SHIP	311000247 : OAK SPIRIT, C6BF4, Tanker : Bahamas
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002734411;SAF;273389100;TEST;NOINF;--;--;REQ;ECC 26 OK
+     Time :	2022-07-19 21:11:20
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002734411 : Novorossiysk Radio : Russia
+ Category :	SAF
+     From :	SHIP	273389100 : STF ROVER, UHZI, N/A : Russia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;304955000;SAF;002241026;TEST;NOINF;--;--;ACK;ECC 127 OK
+     Time :	2022-07-19 21:11:11
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	304955000 : FALSTRIA SWAN, V2XW, Tanker : Antigua/Barbuda
+ Category :	SAF
+     From :	COAST	002241026 : Las Palmas Radio : Spain
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;304955000;SAF;002241026;TEST;NOINF;--;--;ACK;ECC 127 OK
+     Time :	2022-07-19 21:11:10
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	304955000 : FALSTRIA SWAN, V2XW, Tanker : Antigua/Barbuda
+ Category :	SAF
+     From :	COAST	002241026 : Las Palmas Radio : Spain
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;304955000;SAF;002241026;TEST;NOINF;--;--;ACK;ECC 127 OK
+     Time :	2022-07-19 21:11:09
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	304955000 : FALSTRIA SWAN, V2XW, Tanker : Antigua/Barbuda
+ Category :	SAF
+     From :	COAST	002241026 : Las Palmas Radio : Spain
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;304955000;SAF;002241026;TEST;NOINF;--;--;ACK;ECC 127 OK
+     Time :	2022-07-19 21:10:50
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	304955000 : FALSTRIA SWAN, V2XW, Tanker : Antigua/Barbuda
+ Category :	SAF
+     From :	COAST	002241026 : Las Palmas Radio : Spain
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;304955000;SAF;002241026;TEST;NOINF;--;--;ACK;ECC 127 OK
+     Time :	2022-07-19 21:10:49
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	304955000 : FALSTRIA SWAN, V2XW, Tanker : Antigua/Barbuda
+ Category :	SAF
+     From :	COAST	002241026 : Las Palmas Radio : Spain
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002241026;SAF;304955000;TEST;NOINF;--;--;REQ;ECC 112 OK
+     Time :	2022-07-19 21:10:39
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002241026 : Las Palmas Radio : Spain
+ Category :	SAF
+     From :	SHIP	304955000 : FALSTRIA SWAN, V2XW, Tanker : Antigua/Barbuda
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;246521000;SAF;244044000;TEST;NOINF;--;--;REQ;ECC 57 OK
+     Time :	2022-07-19 21:09:55
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	246521000 : TIMCA, PHFL, Cargo : Netherlands
+ Category :	SAF
+     From :	SHIP	244044000 : PRINSENGRACHT, UNK, N/A : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[OH6JKN_RSP1];2187.5;SEL;246521000;SAF;244044000;TEST;NOINF;--;--;REQ;ECC 57 OK
+     Time :	2022-07-19 21:09:54
+  Monitor :	OH6JKN_RSP1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	246521000 : TIMCA, PHFL, Cargo : Netherlands
+ Category :	SAF
+     From :	SHIP	244044000 : PRINSENGRACHT, UNK, N/A : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;246521000;SAF;244044000;TEST;NOINF;--;--;REQ;ECC 57 OK
+     Time :	2022-07-19 21:09:54
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	246521000 : TIMCA, PHFL, Cargo : Netherlands
+ Category :	SAF
+     From :	SHIP	244044000 : PRINSENGRACHT, UNK, N/A : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002470002;SAF;002470128;TEST;NOINF;--;--;REQ;ECC 33 OK
+     Time :	2022-07-19 21:08:40
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470002 : Palermo Radio : Italy
+ Category :	SAF
+     From :	COAST	002470128 : Mazara del Vallo Radio : Italy
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002070810;SAF;273293910;TEST;NOINF;--;--;REQ;ECC 87 OK
+     Time :	2022-07-19 21:08:34
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002070810 : Varna Radio : Bulgaria
+ Category :	SAF
+     From :	SHIP	273293910 : SLAVYANIN, UNK, N/A : Russia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002070810;SAF;273293910;TEST;NOINF;--;--;REQ;ECC 87 OK
+     Time :	2022-07-19 21:08:33
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002070810 : Varna Radio : Bulgaria
+ Category :	SAF
+     From :	SHIP	273293910 : SLAVYANIN, UNK, N/A : Russia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[es1005swl];2187.5;SEL;002070810;SAF;273293910;TEST;NOINF;--;--;REQ;ECC 87 OK
+     Time :	2022-07-19 21:08:33
+  Monitor :	es1005swl
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002070810 : Varna Radio : Bulgaria
+ Category :	SAF
+     From :	SHIP	273293910 : SLAVYANIN, UNK, N/A : Russia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[OH6JKN_RSP1];2187.5;SEL;246891000;SAF;002442000;TEST;NOINF;--;--;ACK;ECC 83 OK
+     Time :	2022-07-19 21:06:37
+  Monitor :	OH6JKN_RSP1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+ Category :	SAF
+     From :	COAST	002442000 : Netherlands CG Radio : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;246891000;SAF;002442000;TEST;NOINF;--;--;ACK;ECC 83 OK
+     Time :	2022-07-19 21:06:37
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+ Category :	SAF
+     From :	COAST	002442000 : Netherlands CG Radio : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;246891000;SAF;002442000;TEST;NOINF;--;--;ACK;ECC 83 OK
+     Time :	2022-07-19 21:06:36
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+ Category :	SAF
+     From :	COAST	002442000 : Netherlands CG Radio : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;002442000;SAF;246891000;TEST;NOINF;--;--;REQ;ECC 92 OK
+     Time :	2022-07-19 21:06:20
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002442000 : Netherlands CG Radio : Netherlands
+ Category :	SAF
+     From :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002442000;SAF;246891000;TEST;NOINF;--;--;REQ;ECC 92 OK
+     Time :	2022-07-19 21:06:20
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002442000 : Netherlands CG Radio : Netherlands
+ Category :	SAF
+     From :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002442000;SAF;246891000;TEST;NOINF;--;--;REQ;ECC 92 OK
+     Time :	2022-07-19 21:06:19
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002442000 : Netherlands CG Radio : Netherlands
+ Category :	SAF
+     From :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;273349470;SAF;273349470;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:05:55
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	273349470 : DARINA, UBUL4, Cargo : Russia
+ Category :	SAF
+     From :	SHIP	273349470 : DARINA, UBUL4, Cargo : Russia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;273349470;SAF;273349470;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:05:54
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	273349470 : DARINA, UBUL4, Cargo : Russia
+ Category :	SAF
+     From :	SHIP	273349470 : DARINA, UBUL4, Cargo : Russia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002470001;SAF;002470133;TEST;NOINF;--;--;REQ;ECC 112 OK
+     Time :	2022-07-19 21:04:47
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470001 : Roma Radio : Italy
+ Category :	SAF
+     From :	COAST	002470133 : Porto Torres Radio : Italy
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[OH6JKN_RSP1];2187.5;SEL;002470001;SAF;002470133;TEST;NOINF;--;--;REQ;ECC 112 OK
+     Time :	2022-07-19 21:04:46
+  Monitor :	OH6JKN_RSP1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470001 : Roma Radio : Italy
+ Category :	SAF
+     From :	COAST	002470133 : Porto Torres Radio : Italy
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;002470001;SAF;002470133;TEST;NOINF;--;--;REQ;ECC 112 OK
+     Time :	2022-07-19 21:04:46
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470001 : Roma Radio : Italy
+ Category :	SAF
+     From :	COAST	002470133 : Porto Torres Radio : Italy
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002470001;SAF;002470133;TEST;NOINF;--;--;REQ;ECC 112 OK
+     Time :	2022-07-19 21:04:46
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470001 : Roma Radio : Italy
+ Category :	SAF
+     From :	COAST	002470133 : Porto Torres Radio : Italy
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002470001;SAF;002470123;TEST;NOINF;--;--;REQ;ECC 113 OK
+     Time :	2022-07-19 21:04:16
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470001 : Roma Radio : Italy
+ Category :	SAF
+     From :	COAST	002470123 : Civitavecchia Radio : Italy
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002470001;SAF;002470123;TEST;NOINF;--;--;REQ;ECC 113 OK
+     Time :	2022-07-19 21:04:14
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002470001 : Roma Radio : Italy
+ Category :	SAF
+     From :	COAST	002470123 : Civitavecchia Radio : Italy
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;368886000;SAF;368886000;TEST;NOINF;--;--;ACK;ECC 102 OK
+     Time :	2022-07-19 21:03:38
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	368886000 : USNS YUMA, UNK, N/A : USA
+ Category :	SAF
+     From :	SHIP	368886000 : USNS YUMA, UNK, N/A : USA
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;368886000;SAF;368886000;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 21:03:28
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	368886000 : USNS YUMA, UNK, N/A : USA
+ Category :	SAF
+     From :	SHIP	368886000 : USNS YUMA, UNK, N/A : USA
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;354641000;SAF;002618102;TEST;NOINF;--;--;ACK;ECC 22 OK
+     Time :	2022-07-19 21:01:06
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	354641000 : HORIZON GEOBAY, 3ETG2, Diving : Panama
+ Category :	SAF
+     From :	COAST	002618102 : Polish Rescue Radio : Poland
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[OH6JKN_RSP1];2187.5;SEL;002618102;SAF;354641000;TEST;NOINF;--;--;REQ;ECC 91 OK
+     Time :	2022-07-19 21:00:45
+  Monitor :	OH6JKN_RSP1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002618102 : Polish Rescue Radio : Poland
+ Category :	SAF
+     From :	SHIP	354641000 : HORIZON GEOBAY, 3ETG2, Diving : Panama
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002618102;SAF;354641000;TEST;NOINF;--;--;REQ;ECC 91 OK
+     Time :	2022-07-19 21:00:45
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002618102 : Polish Rescue Radio : Poland
+ Category :	SAF
+     From :	SHIP	354641000 : HORIZON GEOBAY, 3ETG2, Diving : Panama
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002320007;SAF;246891000;TEST;NOINF;--;--;REQ;ECC 43 OK
+     Time :	2022-07-19 20:54:28
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002320007 : Humber Coastguard : United Kingdom
+ Category :	SAF
+     From :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;002320007;SAF;246891000;TEST;NOINF;--;--;REQ;ECC 43 OK
+     Time :	2022-07-19 20:54:27
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002320007 : Humber Coastguard : United Kingdom
+ Category :	SAF
+     From :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];2187.5;SEL;002320007;SAF;246891000;TEST;NOINF;--;--;REQ;ECC 43 OK
+     Time :	2022-07-19 20:54:27
+  Monitor :	IZ8294SWL
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002320007 : Humber Coastguard : United Kingdom
+ Category :	SAF
+     From :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[es1005swl];2187.5;SEL;002320007;SAF;246891000;TEST;NOINF;--;--;REQ;ECC 43 OK
+     Time :	2022-07-19 20:54:27
+  Monitor :	es1005swl
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002320007 : Humber Coastguard : United Kingdom
+ Category :	SAF
+     From :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;246891000;SAF;002442000;TEST;NOINF;--;--;ACK;ECC 83 OK
+     Time :	2022-07-19 20:50:29
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+ Category :	SAF
+     From :	COAST	002442000 : Netherlands CG Radio : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;246891000;SAF;002442000;TEST;NOINF;--;--;ACK;ECC 83 OK
+     Time :	2022-07-19 20:50:28
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+ Category :	SAF
+     From :	COAST	002442000 : Netherlands CG Radio : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002442000;SAF;246891000;TEST;NOINF;--;--;REQ;ECC 92 OK
+     Time :	2022-07-19 20:50:14
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002442000 : Netherlands CG Radio : Netherlands
+ Category :	SAF
+     From :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;002442000;SAF;246891000;TEST;NOINF;--;--;REQ;ECC 92 OK
+     Time :	2022-07-19 20:50:13
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002442000 : Netherlands CG Radio : Netherlands
+ Category :	SAF
+     From :	SHIP	246891000 : ALMA, PCRK, Cargo : Netherlands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;311583000;SAF;311583000;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 20:40:28
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	311583000 : JEWEL OF THE SEAS, C6FW9, Passenger : Bahamas
+ Category :	SAF
+     From :	SHIP	311583000 : JEWEL OF THE SEAS, C6FW9, Passenger : Bahamas
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;311583000;SAF;311583000;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 20:39:59
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	311583000 : JEWEL OF THE SEAS, C6FW9, Passenger : Bahamas
+ Category :	SAF
+     From :	SHIP	311583000 : JEWEL OF THE SEAS, C6FW9, Passenger : Bahamas
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;235088244;SAF;235088244;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 20:38:58
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	235088244 : SEATRUCK PROGRESS, 2EUK3, Cargo : United Kingdom
+ Category :	SAF
+     From :	SHIP	235088244 : SEATRUCK PROGRESS, 2EUK3, Cargo : United Kingdom
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;235088244;SAF;235088244;TEST;NOINF;--;--;REQ;ECC 105 OK
+     Time :	2022-07-19 20:38:57
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	235088244 : SEATRUCK PROGRESS, 2EUK3, Cargo : United Kingdom
+ Category :	SAF
+     From :	SHIP	235088244 : SEATRUCK PROGRESS, 2EUK3, Cargo : United Kingdom
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;257740000;SAF;002320010;TEST;NOINF;--;--;ACK;ECC 24 OK
+     Time :	2022-07-19 20:36:29
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	257740000 : AASLI, LADQ6, Cargo : Norway
+ Category :	SAF
+     From :	COAST	002320010 : Dover Coastguard : United Kingdom
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[OH6JKN_RSP1];2187.5;SEL;257740000;SAF;002320010;TEST;NOINF;--;--;ACK;ECC 24 OK
+     Time :	2022-07-19 20:36:28
+  Monitor :	OH6JKN_RSP1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	257740000 : AASLI, LADQ6, Cargo : Norway
+ Category :	SAF
+     From :	COAST	002320010 : Dover Coastguard : United Kingdom
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;257740000;SAF;002320010;TEST;NOINF;--;--;ACK;ECC 24 OK
+     Time :	2022-07-19 20:36:28
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	SHIP	257740000 : AASLI, LADQ6, Cargo : Norway
+ Category :	SAF
+     From :	COAST	002320010 : Dover Coastguard : United Kingdom
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[MAJO88BN-1];2187.5;SEL;002320010;SAF;257740000;TEST;NOINF;--;--;REQ;ECC 23 OK
+     Time :	2022-07-19 20:34:40
+  Monitor :	MAJO88BN-1
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002320010 : Dover Coastguard : United Kingdom
+ Category :	SAF
+     From :	SHIP	257740000 : AASLI, LADQ6, Cargo : Norway
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IO75-02];2187.5;SEL;002320010;SAF;257740000;TEST;NOINF;--;--;REQ;ECC 23 OK
+     Time :	2022-07-19 20:34:40
+  Monitor :	IO75-02
+Frequency :	2187.5 kHz
+   Format :	SEL
+       To :	COAST	002320010 : Dover Coastguard : United Kingdom
+ Category :	SAF
+     From :	SHIP	257740000 : AASLI, LADQ6, Cargo : Norway
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+

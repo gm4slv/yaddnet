@@ -1,5 +1,0 @@
-[paths]
-default = /home/gm4slv/pshed/html
-
-[hooks]
-commit = hg log > /var/www/html/pages/php/test/changelog.txt

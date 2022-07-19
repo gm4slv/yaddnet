@@ -1,0 +1,40 @@
+YYYYMMDD HHMM  kHz   MMSI       Station ID, Country
+==========================================================
+
+2177.0 :
+
+2187.5 :
+
+4207.5 :
+
+6312.0 :
+
+8414.5 :
+20220719 0013 8414.5 002241022 Coruna Radio, Spain
+20220719 0011 8414.5 002241024 Valencia Radio, Spain
+20220719 0306 8414.5 002241026 Las Palmas Radio, Spain
+20220719 0000 8414.5 002371000 Olympia Radio, Greece
+20220719 0524 8414.5 002570000 Public Correspondence, Norway
+20220719 0043 8414.5 002711000 Istanbul Radio, Turkey
+20220719 1702 8414.5 004122100 Shanghai Radio, China
+20220719 1736 8414.5 004123100 Guangzhou Radio, China
+20220719 1724 8414.5 005030001 RCC Australia, Australia
+20220719 1800 8414.5 005671000 Bangkok Radio, Thailand
+20220719 1709 8414.5 005743030 Ho Chi Minh Ville Radio, Vietnam
+20220719 0112 8414.5 006010001 Cape Town Radio, South Africa
+
+12577.0 :
+
+16804.5 :
+
+156525.0 :
+
+
+Total 2177.0kHz : 0
+Total 2187.5kHz : 0
+Total 4207.5kHz : 0
+Total 6312.0kHz : 0
+Total 8414.5kHz : 12
+Total 12577.0kHz : 0
+Total 16804.5kHz : 0
+Total 156.525MHz : 0

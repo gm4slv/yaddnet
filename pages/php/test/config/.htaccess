@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /var/www/html/pages/php/test/config/.htpasswd
+Require valid-user

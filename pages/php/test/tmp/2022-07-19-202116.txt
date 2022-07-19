@@ -1,0 +1,180 @@
+    Input :	[IZ8294SWL];12577.0;SEL;005030001;SAF;405000165;TEST;NOINF;--;--;REQ;ECC 119 OK
+     Time :	2022-07-19 20:21:00
+  Monitor :	IZ8294SWL
+Frequency :	12577.0 kHz
+   Format :	SEL
+       To :	COAST	005030001 : RCC Australia : Australia
+ Category :	SAF
+     From :	SHIP	405000165 : MAA SALEHA BEGUM, S2PZ, Cargo : Bangladesh
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];12577.0;SEL;002711000;SAF;477142400;TEST;NOINF;--;--;REQ;ECC 19 OK
+     Time :	2022-07-19 20:15:17
+  Monitor :	IZ8294SWL
+Frequency :	12577.0 kHz
+   Format :	SEL
+       To :	COAST	002711000 : Istanbul Radio : Turkey
+ Category :	SAF
+     From :	SHIP	477142400 : TIGER TENACITY, VRQY6, Tanker : Hong Kong
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];12577.0;SEL;373946000;SAF;005030001;TEST;NOINF;--;--;ACK;ECC 108 OK
+     Time :	2022-07-19 20:12:00
+  Monitor :	IZ8294SWL
+Frequency :	12577.0 kHz
+   Format :	SEL
+       To :	SHIP	373946000 : KATAGALAN WISDOM, 3EZX9, Cargo : Panama
+ Category :	SAF
+     From :	COAST	005030001 : RCC Australia : Australia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];12577.0;SEL;005741040;SAF;405000197;TEST;NOINF;--;--;REQ;ECC 50 OK
+     Time :	2022-07-19 20:05:52
+  Monitor :	IZ8294SWL
+Frequency :	12577.0 kHz
+   Format :	SEL
+       To :	COAST	005741040 : Hai Phong Radio : Vietnam
+ Category :	SAF
+     From :	SHIP	405000197 : JAHAN MONI, S2AC4, Cargo : Bangladesh
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];12577.0;SEL;005030001;SAF;477142400;TEST;NOINF;--;--;REQ;ECC 37 OK
+     Time :	2022-07-19 20:04:53
+  Monitor :	IZ8294SWL
+Frequency :	12577.0 kHz
+   Format :	SEL
+       To :	COAST	005030001 : RCC Australia : Australia
+ Category :	SAF
+     From :	SHIP	477142400 : TIGER TENACITY, VRQY6, Tanker : Hong Kong
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];12577.0;SEL;006010001;SAF;371782000;TEST;NOINF;--;--;REQ;ECC 51 OK
+     Time :	2022-07-19 20:01:05
+  Monitor :	IZ8294SWL
+Frequency :	12577.0 kHz
+   Format :	SEL
+       To :	COAST	006010001 : Cape Town Radio : South Africa
+ Category :	SAF
+     From :	SHIP	371782000 : SILVER HAGUE, 3FPW8, Tanker : Panama
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];12577.0;SEL;005671000;SAF;538005693;TEST;NOINF;--;--;REQ;ECC 45 OK
+     Time :	2022-07-19 19:51:06
+  Monitor :	IZ8294SWL
+Frequency :	12577.0 kHz
+   Format :	SEL
+       To :	COAST	005671000 : Bangkok Radio : Thailand
+ Category :	SAF
+     From :	SHIP	538005693 : INTERLINK TENACITY, V7GD3, Cargo : Marshall Islands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];12577.0;SEL;005030001;SAF;636012630;TEST;NOINF;--;--;REQ;ECC 127 OK
+     Time :	2022-07-19 19:44:29
+  Monitor :	IZ8294SWL
+Frequency :	12577.0 kHz
+   Format :	SEL
+       To :	COAST	005030001 : RCC Australia : Australia
+ Category :	SAF
+     From :	SHIP	636012630 : ICE FIGHTER, A8GR3, N/A : Liberia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];12577.0;SEL;006459002;SAF;477035600;TEST;NOINF;--;--;REQ;ECC 112 OK
+     Time :	2022-07-19 19:40:56
+  Monitor :	IZ8294SWL
+Frequency :	12577.0 kHz
+   Format :	SEL
+       To :	COAST	006459002 : UNID : Mauritius
+ Category :	SAF
+     From :	SHIP	477035600 : TAIHAI 1, VRQU4, N/A : Hong Kong
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];12577.0;SEL;636014286;SAF;002241022;TEST;NOINF;--;--;ACK;ECC 98 OK
+     Time :	2022-07-19 19:39:26
+  Monitor :	IZ8294SWL
+Frequency :	12577.0 kHz
+   Format :	SEL
+       To :	SHIP	636014286 : HORIZON THEONI, UNK, N/A : Liberia
+ Category :	SAF
+     From :	COAST	002241022 : Coruna Radio : Spain
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];12577.0;SEL;636014286;SAF;002241022;TEST;NOINF;--;--;ACK;ECC 98 OK
+     Time :	2022-07-19 19:39:06
+  Monitor :	IZ8294SWL
+Frequency :	12577.0 kHz
+   Format :	SEL
+       To :	SHIP	636014286 : HORIZON THEONI, UNK, N/A : Liberia
+ Category :	SAF
+     From :	COAST	002241022 : Coruna Radio : Spain
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];12577.0;SEL;002241022;SAF;636014286;TEST;NOINF;--;--;REQ;ECC 109 OK
+     Time :	2022-07-19 19:38:54
+  Monitor :	IZ8294SWL
+Frequency :	12577.0 kHz
+   Format :	SEL
+       To :	COAST	002241022 : Coruna Radio : Spain
+ Category :	SAF
+     From :	SHIP	636014286 : HORIZON THEONI, UNK, N/A : Liberia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+

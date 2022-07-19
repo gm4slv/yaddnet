@@ -1,0 +1,495 @@
+    Input :	[IZ8294SWL];8414.5;SEL;002371000;SAF;356479000;J3E TP;NOINF;08291.0/08291.0KHz;--;REQ;ECC 14 OK
+     Time :	2022-07-19 20:30:59
+  Monitor :	IZ8294SWL
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	002371000 : Olympia Radio : Greece
+ Category :	SAF
+     From :	SHIP	356479000 : ASI M, UNK, N/A : Panama
+   Tele 1 :	J3E TP
+   Tele 2 :	NOINF
+     Freq :	08291.0/08291.0KHz
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[John/Arizona];8414.5;SEL;003669998;SAF;352157000;TEST;NOINF;--;--;REQ;ECC 52 OK
+     Time :	2022-07-19 20:30:48
+  Monitor :	John/Arizona
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	003669998 : New Orleans : USA
+ Category :	SAF
+     From :	SHIP	352157000 : HYUNDAI PROGRESS, 3FDV8, Cargo : Panama
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];8414.5;SEL;372743000;SAF;006010001;TEST;NOINF;--;--;REQ;ECC 64 OK
+     Time :	2022-07-19 20:27:13
+  Monitor :	IZ8294SWL
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	372743000 : PANTELIS, 3EKK, N/A : Panama
+ Category :	SAF
+     From :	COAST	006010001 : Cape Town Radio : South Africa
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;372743000;(safety);from;006010001; test REQ;22-07-19 20:27:16
+     Time :	2022-07-19 20:27:12
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	372743000 : PANTELIS, 3EKK, N/A : Panama
+ Category :	SAF
+     From :	COAST	006010001 : Cape Town Radio : South Africa
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;371601000;(safety);from;005030001; test ACK;22-07-19 20:22:29
+     Time :	2022-07-19 20:22:25
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	371601000 : MORNING ORCHID, 3FTE8, Cargo : Panama
+ Category :	SAF
+     From :	COAST	005030001 : RCC Australia : Australia
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;005030001;(safety);from;371601000; test REQ;22-07-19 20:22:14
+     Time :	2022-07-19 20:22:10
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	005030001 : RCC Australia : Australia
+ Category :	SAF
+     From :	SHIP	371601000 : MORNING ORCHID, 3FTE8, Cargo : Panama
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;005030001;(safety);from;005030001; test REQ;22-07-19 20:17:52
+     Time :	2022-07-19 20:17:48
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	005030001 : RCC Australia : Australia
+ Category :	SAF
+     From :	COAST	005030001 : RCC Australia : Australia
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[John/Arizona];8414.5;SEL;002241022;SAF;636016206;TEST;NOINF;--;--;REQ;ECC 123 OK
+     Time :	2022-07-19 20:15:51
+  Monitor :	John/Arizona
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	002241022 : Coruna Radio : Spain
+ Category :	SAF
+     From :	SHIP	636016206 : TRIUMPH, D5EZ8, Cargo : Liberia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;002241022;(safety);from;249210000; test REQ;22-07-19 20:11:43
+     Time :	2022-07-19 20:11:39
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	002241022 : Coruna Radio : Spain
+ Category :	SAF
+     From :	SHIP	249210000 : SICHEM IRIS, 9HND9, Tanker : Malta
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];8414.5;SEL;002711000;SAF;477142400;TEST;NOINF;--;--;REQ;ECC 19 OK
+     Time :	2022-07-19 20:11:00
+  Monitor :	IZ8294SWL
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	002711000 : Istanbul Radio : Turkey
+ Category :	SAF
+     From :	SHIP	477142400 : TIGER TENACITY, VRQY6, Tanker : Hong Kong
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;002711000;(safety);from;477142400; test REQ;22-07-19 20:11:02
+     Time :	2022-07-19 20:10:58
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	002711000 : Istanbul Radio : Turkey
+ Category :	SAF
+     From :	SHIP	477142400 : TIGER TENACITY, VRQY6, Tanker : Hong Kong
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[John/Arizona];8414.5;SEL;255805869;SAF;563063200;TEST;NOINF;--;--;ACK;ECC 65 OK
+     Time :	2022-07-19 20:08:48
+  Monitor :	John/Arizona
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	255805869 : MSC GIULIA, CQZP, Cargo : Madeira
+ Category :	SAF
+     From :	SHIP	563063200 : MARVEL HAWK, UNK, N/A : Singapore
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;373946000;(safety);from;005030001; test ACK;22-07-19 20:03:50
+     Time :	2022-07-19 20:03:46
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	373946000 : KATAGALAN WISDOM, 3EZX9, Cargo : Panama
+ Category :	SAF
+     From :	COAST	005030001 : RCC Australia : Australia
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];8414.5;SEL;005671000;SAF;405000197;TEST;NOINF;--;--;REQ;ECC 89 OK
+     Time :	2022-07-19 20:02:53
+  Monitor :	IZ8294SWL
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	005671000 : Bangkok Radio : Thailand
+ Category :	SAF
+     From :	SHIP	405000197 : JAHAN MONI, S2AC4, Cargo : Bangladesh
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;371180000;(safety);from;004122100; test ACK;22-07-19 20:01:43
+     Time :	2022-07-19 20:01:40
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	371180000 : NBA MILLET, 3FRY7, Cargo : Panama
+ Category :	SAF
+     From :	COAST	004122100 : Shanghai Radio : China
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;004122100;(safety);from;477211600; test REQ;22-07-19 19:58:54
+     Time :	2022-07-19 19:58:51
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	004122100 : Shanghai Radio : China
+ Category :	SAF
+     From :	SHIP	477211600 : FMG CLOUDBREAK, VRLA6, Cargo : Hong Kong
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;004122300;(safety);from;477630800; test REQ;22-07-19 19:48:17
+     Time :	2022-07-19 19:48:13
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	004122300 : Lianyungang Radio : China
+ Category :	SAF
+     From :	SHIP	477630800 : JOSCO LANZHOU, UNK, N/A : Hong Kong
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;006459022;(safety);from;477035600; test REQ;22-07-19 19:48:07
+     Time :	2022-07-19 19:48:04
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	006459022 : UNID : Mauritius
+ Category :	SAF
+     From :	SHIP	477035600 : TAIHAI 1, VRQU4, N/A : Hong Kong
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;563886000;(safety);from;005030001; test ACK;22-07-19 19:41:30
+     Time :	2022-07-19 19:41:27
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	563886000 : KOTA AZAM, S6BL, N/A : Singapore
+ Category :	SAF
+     From :	COAST	005030001 : RCC Australia : Australia
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];8414.5;SEL;004192202;SAF;636012630;TEST;NOINF;--;--;REQ;ECC 44 OK
+     Time :	2022-07-19 19:38:35
+  Monitor :	IZ8294SWL
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	004192202 : Porbandar : India
+ Category :	SAF
+     From :	SHIP	636012630 : ICE FIGHTER, A8GR3, N/A : Liberia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;004192202;(safety);from;636012630; test REQ;22-07-19 19:38:37
+     Time :	2022-07-19 19:38:34
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	004192202 : Porbandar : India
+ Category :	SAF
+     From :	SHIP	636012630 : ICE FIGHTER, A8GR3, N/A : Liberia
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];8414.5;SEL;477855900;SAF;004123100;TEST;NOINF;--;--;ACK;ECC 94 OK
+     Time :	2022-07-19 19:37:03
+  Monitor :	IZ8294SWL
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	477855900 : SITC GUANGDONG, VRNQ6, Cargo : Hong Kong
+ Category :	SAF
+     From :	COAST	004123100 : Guangzhou Radio : China
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;477855900;(safety);from;004123100; test ACK;22-07-19 19:37:06
+     Time :	2022-07-19 19:37:03
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	477855900 : SITC GUANGDONG, VRNQ6, Cargo : Hong Kong
+ Category :	SAF
+     From :	COAST	004123100 : Guangzhou Radio : China
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[John/Arizona];8414.5;SEL;003669998;SAF;311000223;TEST;NOINF;--;--;REQ;ECC 38 OK
+     Time :	2022-07-19 19:36:26
+  Monitor :	John/Arizona
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	003669998 : New Orleans : USA
+ Category :	SAF
+     From :	SHIP	311000223 : BLACKCOMB SPIRIT, C6BC4, Tanker : Bahamas
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];8414.5;SEL;354275000;SAF;002371000;TEST;NOINF;--;--;ACK;ECC 116 OK
+     Time :	2022-07-19 19:34:22
+  Monitor :	IZ8294SWL
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	354275000 : HARITA BERLIAN 8, HP4110, N/A : Panama
+ Category :	SAF
+     From :	COAST	002371000 : Olympia Radio : Greece
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;354275000;(safety);from;002371000; test ACK;22-07-19 19:34:25
+     Time :	2022-07-19 19:34:21
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	354275000 : HARITA BERLIAN 8, HP4110, N/A : Panama
+ Category :	SAF
+     From :	COAST	002371000 : Olympia Radio : Greece
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;002371000;(safety);from;354275000; test REQ;22-07-19 19:33:57
+     Time :	2022-07-19 19:33:53
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	002371000 : Olympia Radio : Greece
+ Category :	SAF
+     From :	SHIP	354275000 : HARITA BERLIAN 8, HP4110, N/A : Panama
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;002371000;(safety);from;354275000; test REQ;22-07-19 19:33:09
+     Time :	2022-07-19 19:33:05
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	002371000 : Olympia Radio : Greece
+ Category :	SAF
+     From :	SHIP	354275000 : HARITA BERLIAN 8, HP4110, N/A : Panama
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];8414.5;SEL;405000141;SAF;005741040;J3E TP;NOINF;12356.0/12356.0KHz;--;ACK;ECC 119 OK
+     Time :	2022-07-19 19:32:36
+  Monitor :	IZ8294SWL
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	405000141 : FATEMA JAHAN, S2PF, N/A : Bangladesh
+ Category :	SAF
+     From :	COAST	005741040 : Hai Phong Radio : Vietnam
+   Tele 1 :	J3E TP
+   Tele 2 :	NOINF
+     Freq :	12356.0/12356.0KHz
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[OH6JKN_JRC_NRD-535];8414.5;SEL;005741040;SAF;405000141;J3E TP;NOINF;--;21.51°N 091.42°E;REQ;ECC 57 OK
+     Time :	2022-07-19 19:31:52
+  Monitor :	OH6JKN_JRC_NRD-535
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	005741040 : Hai Phong Radio : Vietnam
+ Category :	SAF
+     From :	SHIP	405000141 : FATEMA JAHAN, S2PF, N/A : Bangladesh
+   Tele 1 :	J3E TP
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	21.51°N 091.42°E
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;005741040;(safety);from;405000141; J3 posn N21 51' E091 42' REQ;22-07-19 19:31:55
+     Time :	2022-07-19 19:31:51
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	COAST	005741040 : Hai Phong Radio : Vietnam
+ Category :	SAF
+     From :	SHIP	405000141 : FATEMA JAHAN, S2PF, N/A : Bangladesh
+   Tele 1 :	J3E TP
+   Tele 2 :	--
+     Freq :	--
+      Pos :	21.51°N 091.42°E
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];8414.5;SEL;372219000;SAF;538007589;TEST;NOINF;--;--;ACK;ECC 68 OK
+     Time :	2022-07-19 19:31:38
+  Monitor :	IZ8294SWL
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	372219000 : CHEMWAY LARA, 3EMN3, Tanker : Panama
+ Category :	SAF
+     From :	SHIP	538007589 : SANMAR SANGEET, V7OD6, N/A : Marshall Islands
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	GM4SLV 8414.5;372219000;(safety);from;538007589; test ACK;22-07-19 19:31:40
+     Time :	2022-07-19 19:31:37
+  Monitor :	GM4SLV
+Frequency :	8414.5 kHz
+   Format :	SEL
+       To :	SHIP	372219000 : CHEMWAY LARA, 3EMN3, Tanker : Panama
+ Category :	SAF
+     From :	SHIP	538007589 : SANMAR SANGEET, V7OD6, N/A : Marshall Islands
+   Tele 1 :	TEST
+   Tele 2 :	--
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+

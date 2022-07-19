@@ -1,0 +1,355 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Database Edit</title>
+    <meta http-equiv="Content-Type" content="text/html" />
+<style>
+
+
+ #freq{
+color: #424242;
+background: #006666;
+width:60px;
+height:30px;
+border-radius: 10px
+}
+ #rx {
+color: #424242;
+background: #6666cc;
+width:140px;
+height:30px;
+border-radius: 10px
+}
+#link {
+color: #424242;
+background: #6699cc;
+width:140px;
+height:30px;
+border-radius: 10px;
+font-weight: bold;
+}
+#dis {
+color: #b0b0b0;
+background: #d0d0d0;
+width:140px;
+height:30px;
+border-radius: 10px
+}
+input[type=submit]{
+color: #424242;
+background: #003366;
+width:60px;
+height:30px;
+border-radius: 10px
+font-weight: bold;
+}
+select {
+color: #424242;
+background: #6699cc;
+border-radius: 10px;
+height: 30px;
+
+font-weight: bold;
+}
+input[type=text]{
+color: #424242;
+background: #cccccc;
+width:140px;
+height:30px;
+border-radius: 10px;
+border-width: 1px;
+font-family: monospace;
+font-size: 15px;
+font-weight: bold;
+padding-left: 10px;
+}
+
+ 
+
+</style>
+</head>
+<body bgcolor="c8d5e6">
+	<basefont face="Arial">
+<center>
+<h3>YaDDNet Database Updates</h3>
+<hr width=50%>
+
+
+
+<table cellpadding = 10>
+<caption><b>Change wrong freq. for specific RX ID within a Date window</b></caption> 
+<form action="./correct_freq.php" method="GET">
+<th>Old Freq</th>
+<th>New Freq</th>
+<th>RX ID</th>
+<th>Start</th>
+<th>End</th>
+<tr>
+<td>
+<input type="text" name="old">
+</center>
+</td>
+<td>
+<input type="text" name="new">
+</td>
+<td>
+<input type="text" name="rx">
+</td>
+<td>
+<input type="text" name="date_start">
+</td>
+<td>
+<input type="text" name="date_end">
+</td>
+<td>
+<input id="link" type="submit" value="Update Freq." />
+<input id="link" type="reset" value="Reset" />
+</form>
+</td>
+</tr>
+</table>
+
+
+<hr>
+<table cellpadding = 10>
+<caption><b>Delete wrong freq. for specific RX ID within a Date window</b></caption> 
+<form action="./delete_freq.php" method="GET">
+<th>Old Freq</th>
+<th>RX ID</th>
+<th>Start</th>
+<th>End</th>
+<tr>
+<td>
+<input type="text" name="old">
+</center>
+</td>
+<td>
+<input type="text" name="rx">
+</td>
+<td>
+<input type="text" name="date_start">
+</td>
+<td>
+<input type="text" name="date_end">
+</td>
+<td>
+<input id="link" type="submit" value="Delete records" />
+<input id="link" type="reset" value="Reset" />
+</form>
+</td>
+</tr>
+</table>
+
+<hr>
+
+<table cellpadding = 10>
+<caption><b>Add new Coast Station record</b></caption>
+<form action="./insert_coast.php" method="GET">
+<th>MMSI</th>
+<th>Coastname</th>
+<th>MID</th>
+<th>CCC</th>
+<th>CTRY</th>
+<th>Lat</th>
+<th>Lon</th>
+<tr>
+<td>
+<input type="text" name="mmsi">
+</td>
+<td>
+<input type="text" name="coastname">
+</td>
+<td>
+<input type="text" name="mid">
+</td>
+<td>
+<input type="text" name="ccc">
+</td>
+<td>
+<input type="text" name="ctry">
+</td>
+<td>
+<input type="text" name="lat">
+</td>
+<td>
+<input type="text" name="lon">
+</td>
+<td>
+<input type="checkbox" name="special" value="True">Tick for Special<br>
+<input id="link" type="submit" value="New Coast" />
+<input id="link" type="reset" value="Reset" />
+</form>
+</td></tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>
+<center>
+<form action="../mid_ccc.php" target="_blank">
+<input id="link" type="submit" value="Check CCC">
+</form>
+</center>
+</td>
+</tr>
+</table>
+
+<hr>
+<!--
+<table cellpadding = 10>
+<caption><b>Add new Special record</b></caption>
+<form action="./insert_special.php" method="GET">
+<th>MMSI</th>
+<th>Coastname</th>
+<tr>
+<td>
+<input type="text" name="mmsi">
+</td>
+<td>
+<input type="text" name="coastname">
+</td>
+<td>
+<input id="link" type="submit" value="New Special" />
+<input id="link" type="reset" value="Reset" />
+</form>
+</td>
+</tr>
+</table>
+
+<hr>
+-->
+
+<table cellpadding = 10>
+<caption><b>Modify Coast Station record</b></caption>
+<form action="./location_update_coast.php" method="GET">
+<th>MMSI</th>
+<th>Lat</th>
+<th>Lon</th>
+<tr>
+<td>
+<input type="text" name="mmsi">
+</td>
+<td>
+<input type="text" name="lat">
+</td>
+<td>
+<input type="text" name="lon">
+</td>
+<td>
+<input id="link" type="submit" value="Update Coast" />
+<input id="link" type="reset" value="Reset" />
+</form>
+</td>
+</tr>
+</table>
+
+<hr>
+
+<table cellpadding = 10>
+<caption><b>Add MID / CCC / Ctry</b></caption>
+<form action="./insert_mid.php" method="GET">
+<th>MID</th>
+<th>CCC</th>
+<th>Ctry</th>
+<tr>
+<td>
+<input type="text" name="mid">
+</td>
+<td>
+<input type="text" name="ccc">
+</td>
+<td>
+<input type="text" name="ctry">
+</td>
+<td>
+<input id="link" type="submit" value="New MID" />
+<input id="link" type="reset" value="Reset" />
+</form>
+</td>
+</tr>
+</table>
+
+<hr>
+
+<table cellpadding = 10>
+<caption><b>Update Ship Record</b></caption>
+<form action="./update_resolve.php" method="GET">
+<th>MMSI</th>
+<th>Name</th>
+<th>Callsign</th>
+<th>Vessel Type</th>
+<tr>
+<td>
+<input type="text" name="mmsi">
+</td>
+<td>
+<input type="text" name="new">
+</td>
+<td>
+<input type="text" name="call">
+</td>
+<td>
+<input type="text" name="type">
+</td>
+<td>
+<input id="link" type="submit" value="New Name" />
+<input id="link" type="reset" value="Reset" />
+</form>
+</td>
+</tr>
+</table>
+
+<hr width='50%'>
+
+<table cellpadding = 10>
+<caption><b>Insert New Ship Record</b></caption>
+<form action="./insert_ship.php" method="GET">
+<th>MMSI</th>
+<th>Name</th>
+<th>Callsign</th>
+<th>Vessel Type</th>
+<tr>
+<td>
+<input type="text" name="mmsi">
+</td>
+<td>
+<input type="text" name="new">
+</td>
+<td>
+<input type="text" name="call">
+</td>
+<td>
+<input type="text" name="type">
+</td>
+<td>
+<input id="link" type="submit" value="Insert Ship" />
+<input id="link" type="reset" value="Reset" />
+</form>
+</td>
+</tr>
+</table>
+
+<hr width='50%'>
+
+
+<table cellpadding = 10>
+<caption><b>Delete Ship Record</b></caption>
+<form action = "./delete_ship.php" method="GET">
+<th>MMSI</th>
+<tr>
+<td>
+<input type="text" name="mmsi">
+</td>
+<td>
+<input id="link" type="submit" value="Delete Ship" />
+<input id="link" type="reset" value="Reset" />
+</form>
+</td>
+</tr>
+</table>
+
+
+<hr width='50%'>
+
+</center>
+</html>

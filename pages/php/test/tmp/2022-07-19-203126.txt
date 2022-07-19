@@ -1,0 +1,105 @@
+    Input :	[IZ8294SWL];16804.5;SEL;538002089;SAF;007251860;TEST;NOINF;--;--;ACK;ECC 126 OK
+     Time :	2022-07-19 20:08:44
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	SHIP	538002089 : NEW CONQUEST, V7GG4, N/A : Marshall Islands
+ Category :	SAF
+     From :	COAST	007251860 : Valparaiso Radio : Chile
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];16804.5;SEL;538002089;SAF;007251860;TEST;NOINF;--;--;ACK;ECC 126 OK
+     Time :	2022-07-19 19:59:07
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	SHIP	538002089 : NEW CONQUEST, V7GG4, N/A : Marshall Islands
+ Category :	SAF
+     From :	COAST	007251860 : Valparaiso Radio : Chile
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];16804.5;SEL;538005118;SAF;007251860;TEST;NOINF;--;--;ACK;ECC 112 OK
+     Time :	2022-07-19 19:44:41
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	SHIP	538005118 : STI FONTVIEILLE, V7BD2, Tanker : Marshall Islands
+ Category :	SAF
+     From :	COAST	007251860 : Valparaiso Radio : Chile
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];16804.5;SEL;007301201;SAF;636092978;TEST;NOINF;--;--;REQ;ECC 81 OK
+     Time :	2022-07-19 19:40:45
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	COAST	007301201 : UNID : Colombia
+ Category :	SAF
+     From :	SHIP	636092978 : RIXTA OLDENDORFF, D5YK5, Cargo : Liberia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];16804.5;SEL;002371000;SAF;311000453;TEST;NOINF;--;--;REQ;ECC 31 OK
+     Time :	2022-07-19 19:37:42
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	COAST	002371000 : Olympia Radio : Greece
+ Category :	SAF
+     From :	SHIP	311000453 : TOKYO SPIRIT, C6CE9, N/A : Bahamas
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];16804.5;SEL;007100001;SAF;636092978;TEST;NOINF;--;--;REQ;ECC 74 OK
+     Time :	2022-07-19 19:36:04
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	COAST	007100001 : Rio de Janeiro Radio : Brazil
+ Category :	SAF
+     From :	SHIP	636092978 : RIXTA OLDENDORFF, D5YK5, Cargo : Liberia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];16804.5;SEL;007300401;SAF;636092978;TEST;NOINF;--;--;REQ;ECC 108 OK
+     Time :	2022-07-19 19:34:56
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	COAST	007300401 : Santa Marta : Colombia
+ Category :	SAF
+     From :	SHIP	636092978 : RIXTA OLDENDORFF, D5YK5, Cargo : Liberia
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+

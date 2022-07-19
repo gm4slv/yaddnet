@@ -1,0 +1,15 @@
+    Input :	[IO75-04];4207.5;SEL;249210000;SAF;002241022;TEST;NOINF;--;--;ACK;ECC 1 OK
+     Time :	2022-07-19 20:18:08
+  Monitor :	IO75-04
+Frequency :	4207.5 kHz
+   Format :	SEL
+       To :	SHIP	249210000 : SICHEM IRIS, 9HND9, Tanker : Malta
+ Category :	SAF
+     From :	COAST	002241022 : Coruna Radio : Spain
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+

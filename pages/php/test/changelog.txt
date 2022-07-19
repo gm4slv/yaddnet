@@ -1,86 +1,29 @@
-changeset:   16:3df4e112eebe
-tag:         tip
-user:        John Pumford-Green
-date:        Sun Jul 17 21:48:48 2022 +0000
-summary:     minor update
+commit ac451e1232aec84576145d46d8bd2377f72cd712
+Author: John Pumford-Green <gm4slv@gm4slv.plus.com>
+Date:   Tue Jul 19 21:06:03 2022 +0000
 
-changeset:   15:9d75c4f59fdc
-user:        John Pumford-Green
-date:        Tue Jan 07 06:41:56 2020 +0000
-summary:     added choice of 2020 to search dates.
+    update Tue 19 Jul 2022 09:06:03 PM UTC
 
-changeset:   14:262e98c6df24
-user:        John Pumford-Green
-date:        Fri Dec 13 10:45:26 2019 +0000
-summary:     change query to specify exact RX_ID
+commit 29e8dd58e1d0e07efbd08ca0efaaf7930a5c55c9
+Author: John Pumford-Green <gm4slv@gm4slv.plus.com>
+Date:   Tue Jul 19 21:04:27 2022 +0000
 
-changeset:   13:4ccf5b78ad51
-user:        John Pumford-Green
-date:        Sun Dec 01 13:06:45 2019 +0000
-summary:     chaged robots.txt User-agent: to Googlebot instead of Google
+    update Tue 19 Jul 2022 09:04:27 PM UTC
 
-changeset:   12:9e70332e6d0b
-user:        John Pumford-Green
-date:        Sun Dec 01 12:56:11 2019 +0000
-summary:     edit to robots.txt to allow Google to index us
+commit a40f69d0d5cbae163fe6befbe3e439b2df84696a
+Author: John Pumford-Green <gm4slv@gm4slv.plus.com>
+Date:   Tue Jul 19 21:00:07 2022 +0000
 
-changeset:   11:54633ef72ef4
-user:        John Pumford-Green
-date:        Sun Dec 01 11:43:29 2019 +0000
-summary:     a last test of auto-changelog
+    removed old mercurial repo
 
-changeset:   10:3eed412c4a7a
-user:        John Pumford_Green <john@wire2waves.co.uk>
-date:        Sun Dec 01 11:36:19 2019 +0000
-summary:     a second test
+commit 2df3fec2c3f7116d97b42100014dfb2111f775fe
+Author: John Pumford-Green <gm4slv@gm4slv.plus.com>
+Date:   Tue Jul 19 20:55:12 2022 +0000
 
-changeset:   9:9bef0646bdc4
-user:        John Pumford_Green <john@wire2waves.co.uk>
-date:        Sun Dec 01 11:35:33 2019 +0000
-summary:     testing auto chagelog
+    update
 
-changeset:   8:f8a51052f0e5
-user:        John Pumford_Green <john@wire2waves.co.uk>
-date:        Sun Dec 01 10:55:46 2019 +0000
-summary:     added link to changelog on index page
+commit 5a8d2391bbf946e87df7ff6c2ede3b5e6f12220b
+Author: John Pumford-Green <gm4slv@gm4slv.plus.com>
+Date:   Tue Jul 19 20:49:51 2022 +0000
 
-changeset:   7:e43cc6cc3cd7
-user:        John Pumford_Green <john@wire2waves.co.uk>
-date:        Sun Dec 01 10:45:09 2019 +0000
-summary:     ignore test dir for version control
-
-changeset:   6:3d70e3c0abd2
-user:        John Pumford_Green <john@wire2waves.co.uk>
-date:        Sun Dec 01 10:38:16 2019 +0000
-summary:     removed file-write on live rx view
-
-changeset:   5:3168ab1cfddc
-user:        John Pumford_Green <john@wire2waves.co.uk>
-date:        Sun Dec 01 10:35:05 2019 +0000
-summary:     added live RX view
-
-changeset:   4:6e43467f97b6
-user:        John Pumford_Green <john@wire2waves.co.uk>
-date:        Sat Nov 30 08:15:22 2019 -0800
-summary:     removed cECC option from search page
-
-changeset:   3:a44b7d238b1f
-user:        John Pumford_Green <john@wire2waves.co.uk>
-date:        Sat Nov 30 06:26:28 2019 -0800
-summary:     added time-range to RWW report generator
-
-changeset:   2:0c04e88313ac
-user:        John Pumford_Green <john@wire2waves.co.uk>
-date:        Wed Nov 27 00:54:14 2019 -0800
-summary:     added header row to text output file
-
-changeset:   1:2123d84f3f9c
-user:        John Pumford_Green <john@wire2waves.co.uk>
-date:        Wed Nov 27 00:47:58 2019 -0800
-summary:     ship mmsi page now only saves file, no html table - too slow!
-
-changeset:   0:5e5d5a75cf49
-user:        John Pumford_Green <john@wire2waves.co.uk>
-date:        Thu Nov 21 14:14:08 2019 -0800
-summary:     initial commit of yaddnet website
-
+    first commit

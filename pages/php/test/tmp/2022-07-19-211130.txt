@@ -1,0 +1,120 @@
+    Input :	[IZ8294SWL];16804.5;SEL;538006071;SAF;007251860;TEST;NOINF;--;--;ACK;ECC 37 OK
+     Time :	2022-07-19 21:03:17
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	SHIP	538006071 : MARIE S, UNK, N/A : Marshall Islands
+ Category :	SAF
+     From :	COAST	007251860 : Valparaiso Radio : Chile
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];16804.5;SEL;563084300;SAF;007251860;TEST;NOINF;--;--;ACK;ECC 39 OK
+     Time :	2022-07-19 21:02:37
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	SHIP	563084300 : CARSTEN MAERSK, 9V6204, Cargo : Singapore
+ Category :	SAF
+     From :	COAST	007251860 : Valparaiso Radio : Chile
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];16804.5;SEL;538006071;SAF;007251860;TEST;NOINF;--;--;ACK;ECC 37 OK
+     Time :	2022-07-19 20:58:17
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	SHIP	538006071 : MARIE S, UNK, N/A : Marshall Islands
+ Category :	SAF
+     From :	COAST	007251860 : Valparaiso Radio : Chile
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];16804.5;SEL;563084300;SAF;007251860;TEST;NOINF;--;--;ACK;ECC 39 OK
+     Time :	2022-07-19 20:54:08
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	SHIP	563084300 : CARSTEN MAERSK, 9V6204, Cargo : Singapore
+ Category :	SAF
+     From :	COAST	007251860 : Valparaiso Radio : Chile
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];16804.5;SEL;005030001;SAF;311708000;TEST;NOINF;--;--;REQ;ECC 73 OK
+     Time :	2022-07-19 20:53:10
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	COAST	005030001 : RCC Australia : Australia
+ Category :	SAF
+     From :	SHIP	311708000 : STENA COMPANION, C6TN7, N/A : Bahamas
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	REQ
+      ECC :	OK
+
+    Input :	[IZ8294SWL];16804.5;SEL;538006071;SAF;007251860;UNK/ERR;NOINF;--;--;ACK;ECC 5 OK
+     Time :	2022-07-19 20:52:13
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	SHIP	538006071 : MARIE S, UNK, N/A : Marshall Islands
+ Category :	SAF
+     From :	COAST	007251860 : Valparaiso Radio : Chile
+   Tele 1 :	UNK/ERR
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];16804.5;SEL;538006071;SAF;007251860;TEST;NOINF;--;--;ACK;ECC 37 OK
+     Time :	2022-07-19 20:45:08
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	SHIP	538006071 : MARIE S, UNK, N/A : Marshall Islands
+ Category :	SAF
+     From :	COAST	007251860 : Valparaiso Radio : Chile
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+
+    Input :	[IZ8294SWL];16804.5;SEL;538002089;SAF;007251860;TEST;NOINF;--;--;ACK;ECC 126 OK
+     Time :	2022-07-19 20:32:55
+  Monitor :	IZ8294SWL
+Frequency :	16804.5 kHz
+   Format :	SEL
+       To :	SHIP	538002089 : NEW CONQUEST, V7GG4, N/A : Marshall Islands
+ Category :	SAF
+     From :	COAST	007251860 : Valparaiso Radio : Chile
+   Tele 1 :	TEST
+   Tele 2 :	NOINF
+     Freq :	--
+      Pos :	--
+      EOS :	ACK
+      ECC :	OK
+

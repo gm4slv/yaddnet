@@ -1,2 +1,0 @@
-Datetime;rx_id;rx_freq;to_type;to_mmsi;to_name;to_ctry;cat;from_type;from_mmsi;from_name;from_ctry;tc1;tc2;freq;pos;eos;ecc
-

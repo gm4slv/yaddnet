@@ -834,11 +834,10 @@ DSC Decoder Messages
 <center><input id="link" type="submit" name="svr_type" value="dUDP">
 </form>
 <br>
-<!--
+Database
 <form action="./pages/php/logger_purge.php">
 <center><input id="link" type="submit" value="Database Management">
 </form>
--->
 <!--
 <b>Data Accuracy</b>
 <form action="./pages/php/logger_mod.php">

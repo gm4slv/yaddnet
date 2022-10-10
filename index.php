@@ -998,6 +998,14 @@ Website written entirely by hand using <a href="http://www.vim.org/">ViM</a>
 <br>
 Website Changes : <a href="./pages/php/test/changelog.txt">Changelog</a>
 <br>
+<br> Github repositories with the code that keeps it ticking:<br>
+<br>
+Network and SQL maintenance : <a href="https://github.com/gm4slv/yaddnet_python" target="_blank">YaDDNet Python on Github</a>
+<br>
+HTML/PHP webpages : <a href="https://github.com/gm4slv/yaddnet" target="_blank">YaDDNet Webpages on Github</a>
+<br>
+<br>
+
 <hr width=50%>
 <h3>Contact and further reading.....</h3>
 <br>

@@ -1,8 +1,40 @@
+commit 86b8ed7b92be1fe36fb74f0145bacdcbe3012394
+Author: John Pumford-Green <gm4slv@gm4slv.plus.com>
+Date:   Mon Oct 10 20:23:08 2022 +0000
+
+            modified:   README.md
+            modified:   index.html
+
+commit c568eec68feefb082199362284523898daf377da
+Author: John Pumford-Green <gm4slv@gm4slv.plus.com>
+Date:   Mon Oct 10 20:16:51 2022 +0000
+
+    updated readme
+
+commit b8d6062e333db707b3ee45dc6b5de6a7ba6ed25c
+Author: John Pumford-Green <gm4slv@gm4slv.plus.com>
+Date:   Mon Oct 10 14:39:16 2022 +0000
+
+    autoupdate Mon 10 Oct 2022 02:39:16 PM UTC
+
+commit 1a801d12731695112c73098a44f25e25f9132c49
+Merge: 67106e1 486c45f
+Author: John Pumford-Green <gm4slv@gm4slv.plus.com>
+Date:   Mon Oct 10 14:38:54 2022 +0000
+
+    Merge branch 'main' of github.com:gm4slv/yaddnet into main
+
 commit 67106e1dc68713af7f6a3943cd9bbd8e44c54d31
 Author: John Pumford-Green <gm4slv@gm4slv.plus.com>
 Date:   Mon Oct 10 14:38:30 2022 +0000
 
     autoupdate Mon 10 Oct 2022 02:38:30 PM UTC
+
+commit 486c45f24ed4c9d026c41dceb66c8c26eeba78e1
+Author: John Pumford-Green <gm4slv@gm4slv.plus.com>
+Date:   Mon Oct 10 15:34:50 2022 +0100
+
+    Create README.md
 
 commit 0f16798c166eea109f8566590354aab8eed5b7b0
 Author: John Pumford-Green <gm4slv@gm4slv.plus.com>

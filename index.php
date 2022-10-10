@@ -913,9 +913,9 @@ These can be used to retrieve the full messages, including DSC Symbols, and RAW 
 <font color=white size=4pt>Stored as ZIP files for faster download.</font><br>
 -->
 <hr width=50%>
-<h4>Data is stored with the following criteria:</h4>
+<!--<h4>Data is stored with the following criteria:</h4>-->
+<br>
 <b>Messages with Parity failures (~) or ECC checksum failures (ECC = ERR) are discarded at source and not stored.</b>
-<hr>
 <!--
 Messages with ECC checksum failures are purged after 24 hours<br><br>
 Messages with ECC checksums correct, but with any of the following corruptions, are also purged after 24 hours:<br><br>
@@ -923,6 +923,8 @@ Symbol parity failures (~) in either MMSI <br>
 Symbol parity failures (~) in Freq/Position data fields<br>
 "UNK" values for Category (CAT), Telecommands (TC1/2) or EOS<br>
 -->
+
+<!--
 <b>Archive Data Search</b><font size="2"> 8/4/19
 <br>
 If you are looking for the archive database of loggings from 2014-2017 it has now been removed from YaDDNet to save disk space.<br>
@@ -933,13 +935,20 @@ Feel free to take a copy to use in your own MySQL server.<br>
 Un-gzipped it is approx 3GB and when the data is loaded into a MySQL databse it consumes approx 20GB of hard disk space.<br>
 </font>
 <hr>
+
+-->
+
+<br>
 <br>
 <b> Ship Names are automatically resolved via the <a href="http://aprs.fi/#!mt=roadmap&z=11&lat=60.2253&lng=-1.3508&timerange=86400&tail=86400" target="_BLANK"> APRS.FI </a>web API</b><br>
 <br>
-If this is unsuccessful the Marine Traffic website is used.
+<!--If this is unsuccessful the Marine Traffic website is used.
 <br><br>
+--!>
 <hr width=80%>
+
 <!--
+<hr width=80%>
 <b>YaDDNet also provides RX facilities for Snargate Radio, Dover (MMSI<i> 002320204</i>)</b><br>
 <form action="./pages/php/test/tmp/snargate_status.html">
 <center><input id="link" type="submit" value="Snargate Status">
@@ -953,7 +962,32 @@ My <a href="./pages/MF_and_HF_DSCguide.pdf"  >Guide to MF/HF DSC</a><br>
 <br>
 The DSC Bible from the ITU : <a href="./pages/DSC.pdf"  >R-REC-M.493</a><br>
 <br>
+<hr width=50%>
+<font color=#006666><h3>To upload your received DSC messages</h3></font>
+<h3>Using YaDD</h3>
+Configure "Remote Logging" to send messages to <br>
+<br>
+<table>
+<tr>
 
+<td><b>Host</b></td><td> yaddnet.org</td></tr>
+<tr>
+<td>
+<b>Port</b></td><td> 50666
+</td>
+<tr>
+</table>
+<br>
+<h3>Using DSCDecoder</h3>
+It <i>is</i> possible to upload DSC messages from <i>DSCDecoder</i> - contact GM4SLV for details of configuration settings.
+<br>
+<br>
+<hr width=80%>
+<br>
+For questions relating to this website please contact GM4SLV :<i> gm4slv at gm4slv dot plus dot com</i> <br>
+<br>
+For questions relating to the YaDD software itself please ask on the<b> DSC List</b> at <i>groups.io</i> or directly to the author
+of YaDD, Dirk Claessens<br><br>
 <hr width=50%>
 <font size=4pt>Powered by <b>YaDD</b> <i>"Yet another DSC Decoder"</i>
 <br>
@@ -964,9 +998,17 @@ Website written entirely by hand using <a href="http://www.vim.org/">ViM</a>
 <br>
 Website Changes : <a href="./pages/php/test/changelog.txt">Changelog</a>
 <br>
+<hr width=50%>
+<h3>Contact and further reading.....</h3>
 <br>
 gm4slv at gm4slv dot plus dot com
+<br>
+<br>
 
+I have a Wiki and Blog.....
+<a href="https://www.gm4slv.org.uk/dokuwiki/doku.php?id=start" target="_blank">Commonplace Wiki</a>
+<br>
+<br>
 </center>
 </body>
 </html>

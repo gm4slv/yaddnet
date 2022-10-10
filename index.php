@@ -979,7 +979,11 @@ Configure "Remote Logging" to send messages to <br>
 </table>
 <br>
 <h3>Using DSCDecoder</h3>
-It <i>is</i> possible to upload DSC messages from <i>DSCDecoder</i> - contact GM4SLV for details of configuration settings.
+It is possible to upload DSC messages from <i>DSCDecoder</i><br>
+<br>
+A short guide is <a href="./pages/dscd.html">HERE</a><br>
+<br>
+If this is unclear, contact GM4SLV for futher details of configuration settings.<br>
 <br>
 <br>
 <hr width=80%>

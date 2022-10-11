@@ -1,3 +1,9 @@
+commit 1f7780b785b3e8eab26a9cef7a72156959740953
+Author: John Pumford-Green <gm4slv@gm4slv.plus.com>
+Date:   Mon Oct 10 21:48:22 2022 +0000
+
+    Added short guide for DSCDecoder uploads
+
 commit 7af46fae184b0ebb22f52e13ac4eba8a744a9234
 Author: John Pumford-Green <gm4slv@gm4slv.plus.com>
 Date:   Mon Oct 10 20:27:03 2022 +0000

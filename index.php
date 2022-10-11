@@ -967,13 +967,13 @@ The DSC Bible from the ITU : <a href="./pages/DSC.pdf"  >R-REC-M.493</a><br>
 <h3>Using YaDD</h3>
 Configure "Remote Logging" to send messages to <br>
 <br>
-<table>
+<table cellpadding=5>
 <tr>
 
-<td><b>Host</b></td><td> yaddnet.org</td></tr>
+<td><b>Host</b></td><td><tt> yaddnet.org</tt></td></tr>
 <tr>
 <td>
-<b>Port</b></td><td> 50666
+<b>Port</b></td><td><tt> 50666</tt>
 </td>
 <tr>
 </table>

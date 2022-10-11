@@ -970,12 +970,14 @@ Configure "Remote Logging" to send messages to <br>
 <table cellpadding=5>
 <tr>
 
-<td><b>Host</b></td><td><tt> yaddnet.org</tt></td></tr>
+<td><b>Host</b></td><td> <font  face=monospace color=black size='4pt'>www.yaddnet.org</font></td></tr>
 <tr>
 <td>
-<b>Port</b></td><td><tt> 50666</tt>
+<b>Port</b></td><td> <font  face=monospace color=black size='4pt'>50666</font>
 </td>
+</tr>
 <tr>
+<td><b>RX ID</b></td><td> <font  face=monospace color=black size='4pt'>YOUR CHOICE, no more than 18 characters</font></td></tr>
 </table>
 <br>
 <h3>Using DSCDecoder</h3>

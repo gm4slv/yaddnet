@@ -1022,6 +1022,7 @@ gm4slv at gm4slv dot plus dot com
 I have a Wiki and Blog.....
 <a href="https://www.gm4slv.org.uk/dokuwiki/doku.php?id=start" target="_blank">Commonplace Wiki</a>
 <br>
+<a rel="me" href="https://mastodon.radio/@gm4slv">Mastodon</a>
 <br>
 </center>
 </body>
